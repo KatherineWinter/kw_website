@@ -1,0 +1,28 @@
+.darkTheme {  
+  --app-background: #000;
+}
+
+.lightTheme {  
+  --app-background: #edf1f2;
+}
+
+.App {
+  display: flex;
+  font-family: Open Sans,sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  background: var(--app-background);
+  user-select: none;
+}
+
+.boxart-pane {
+  width: 100%;
+  display: inline-block;
+}
+
+.overlay {
+  filter: blur(1.5rem);
+  overflow: hidden;
+  position:fixed;
+}
+

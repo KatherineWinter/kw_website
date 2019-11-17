@@ -1,0 +1,502 @@
+{
+  "tags": [
+    {
+      "id": "education",
+      "name": "Education"
+    },
+    {
+      "id": "skills",
+      "name": "Skills"
+    },
+    {
+      "id": "awards",
+      "name": "Awards"
+    },
+    {
+      "id": "speaking",
+      "name": "Speaking"
+    },
+    {
+      "id": "professional",
+      "name": "Professional"
+    },
+    {
+      "id": "projects",
+      "name": "Projects"
+    }
+  ],
+  "about": {
+    "name": "Katherine Winter",
+    "title": "Software Engineering Manager",
+    "img": "./images/photo.jpg",
+    "desc": "I am constantly trying to organize and improve the world around me. I’m determined, passionate, hardworking with unyielding self-motivation. Known for leadership skills, efficiency, and work ethic. ",
+    "links": [
+      {
+        "id": "linkedin",
+        "name": "LinkedIn",
+        "img": "./images/linkedin.png",
+        "url": "http://www.linkedin.com/in/katherinewinter"
+      },
+      {
+        "id": "github",
+        "name": "Github",
+        "img": "./images/github.png",
+        "url": "https://github.com/KatherineWinter"
+      },
+      {
+        "id": "blogspot",
+        "name": "Blogspot",
+        "img": "./images/blogger.png",
+        "url": "https://kb-software.blogspot.com/"
+      }
+    ]
+  },
+  "boxes": [
+    {
+      "id": "fullsail",
+      "name": "Full Sail University",
+      "title": "Education",
+      "img": "./images/fullsail.jpg",
+      "desc": "Bachelor of Science in Game Development - Full Sail University 2010, Winter Park, FL",
+      "tags": [
+        "education",
+        "cpp",
+        "csharp",
+        "visual_studio",
+        "award_painternightmare"
+      ],
+      "projects": [
+        "starbound",
+        "paintersnightmare",
+        "award_painternightmare",
+        "gingerdead"
+      ]
+    },
+    {
+      "id": "cpp",
+      "name": "C++",
+      "title": "Expert",
+      "img": "./images/cplusplus.png",
+      "projects": [
+        "fullsail",
+        "frostbite",
+        "origin",
+        "gingerdead",
+        "paintersnightmare",
+        "starbound"
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "csharp",
+      "name": "C#",
+      "title": "Intermediate",
+      "img": "./images/csharp.png",
+      "projects": [
+        "fullsail",
+        "frostbite",
+        "totalimmersion",
+        "chug",
+        "gingerdead",
+        "kernedfont"
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "title": "Intermediate",
+      "img": "./images/javascript.png",
+      "projects": [
+        "origin",
+        "chug",
+        "pollev"
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "jquery",
+      "name": "jQuery",
+      "title": "Intermediate",
+      "img": "./images/jQuery.png",
+      "projects": [
+        "origin",
+        "pollev"
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "angular1",
+      "name": "Angular 1",
+      "title": "Beginner",
+      "img": "./images/angular1.png",
+      "projects": [
+        "origin"
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "title": "Beginner",
+      "img": "./images/react.png",
+      "projects": [
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "visual_studio",
+      "name": "Visual Studio",
+      "title": "Intermediate",
+      "img": "./images/visualstudio.png",
+      "projects": [
+        "frostbite",
+        "origin",
+        "chug",
+        "gingerdead",
+        "paintersnightmare",
+        "starbound"
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "perforce",
+      "name": "Perforce",
+      "title": "Intermediate",
+      "img": "./images/p4v.png",
+      "projects": [
+        "frostbite",
+        "origin"
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "qt",
+      "name": "Qt",
+      "title": "Expert",
+      "img": "./images/qt.png",
+      "projects": [
+        "origin"
+      ],
+      "tags": [
+        "skills"
+      ]
+    },
+    {
+      "id": "award_painternightmare",
+      "name": "2009: Best Game in Show",
+      "title": "Painter's Nightmare",
+      "img": "./images/paintersnight_title.png",
+      "projects": [
+        "paintersnightmare",
+        "fullsail"
+      ],
+      "tags": [
+        "awards"
+      ]
+    },
+    {
+      "id": "award_unsunghero",
+      "name": "2012: Origin Unsung Hero",
+      "img": "./images/unsung_hero.png",
+      "projects": [
+        "origin"
+      ],
+      "tags": [
+        "awards"
+      ]
+    },
+    {
+      "id": "award_engineeringexcellence",
+      "name": "Nominated 2018: Excellence in Engineering",
+      "img": "./images/career_dev.jpg",
+      "projects": [
+        "frostbite"
+      ],
+      "tags": [
+        "awards"
+      ]
+    },
+    {
+      "id": "award_professionaldev",
+      "name": "Nominated 2018: Professional Development",
+      "img": "./images/career_dev.jpg",
+      "projects": [
+        "frostbite"
+      ],
+      "tags": [
+        "awards"
+      ]
+    },
+    {
+      "id": "speaking_getinthegame",
+      "name": "Electronic Arts summer camp helps grow girls' interest in creating video games",
+      "title": "Orlando Sentinel",
+      "img": "./images/getinthegame.png",
+      "link": "https://www.orlandosentinel.com/business/os-cfb-electronic-arts-girl-gamers-20180712-story.html",
+      "projects": [
+        "frostbite"
+      ],
+      "tags": [
+        "speaking"
+      ]
+    },
+    {
+      "id": "speaking_devdays",
+      "img": "./images/devdays.jpg",
+      "name": "Cross Team Frostbite Performance Validation",
+      "title": "EA Frostbite Conference: DevDays",
+      "desc": "Stockholm, Sweden",
+      "tags": [
+        "speaking"
+      ],
+      "projects": [
+        "frostbite"
+      ]
+    },
+    {
+      "id": "speaking_femmehack",
+      "name": "Femmhack",
+      "title": "EA: Recruiting Events",
+      "desc": "Created interview questions and conducted interviews for Software Engineer Interns-3. Recruitted at Grace Hopper Celebration (Texas and Orlando) and Femmhack (Philadelphia)",
+      "img": "./images/femmhack.jpg",
+      "tags": [
+        "speaking"
+      ],
+      "projects": [
+        "fullsail"
+      ]
+    },
+    {
+      "id": "speaking_eaerg",
+      "img": "./images/eaerg.jpg",
+      "name": "EA: Womens ERG",
+      "title": "Culture and Gaming lead",
+      "desc": "Ran EA culture events that promoted retention and morale.",
+      "tags": [
+        "speaking"
+      ],
+      "projects": [
+        "fullsail"
+      ]
+    },
+    {
+      "id": "speaking_mentorship",
+      "img": "./images/mentorship.jpg",
+      "name": "Mentorship",
+      "title": "EA && Girls Who Code && Get In The Game",
+      "desc": "Mentored junior engineers and set up actionable goals for engineers to progress in their careers.",
+      "tags": [
+        "speaking"
+      ],
+      "projects": [
+        "origin",
+        "fullsail"
+      ]
+    },
+    {
+      "id": "pollev",
+      "name": "Software Engineering Manager",
+      "title": "Poll Everywhere",
+      "img": "./images/pollev.jpg",
+      "desc": "January 2019 - Current",
+      "url": "wwww.polleverywhere.com",
+      "desc2": [
+        "Responsible for planning projects to address business goals in quarterly work plan.",
+        "Manager for three software engineers. Conducted one on ones and mentored them on career growth.",
+        "Created reports and metrics on how our systems were performing in the wild.",
+        "Enhanced development process for controlling quality and remain 'release ready'."
+      ],
+      "tags": [
+        "professional"
+      ],
+      "projects": [
+        "javascript",
+        "csharp",
+        "visual_studio"
+      ]
+    },
+    {
+      "id": "frostbite",
+      "name": "System Engineer",
+      "title": "Frostbite, EA",
+      "img": "./images/frostbite_title.jpg",
+      "desc": "January 2016 - January 2019",
+      "url": "www.frostbite.com",
+      "desc2": [
+        "Responsible for and created engineer development process. Resulted in the team delivering higher quality work and happier customers measured by NPS.",
+        "Gave presentations at internal EA conferences on performance metric tracking & development process",
+        "Created technology used across all Frostbite titles. Two pass layout system, multiline text input, etc",
+        "Provided engineering support for game team engineers. Harvest back game team additions to engine and finalized the features.",
+        "Responsible for writing and reviewing detailed technical documentation and technical designs.",
+        "Responsible for reviewing game team divergences, documenting, and creating scalable solutions."
+      ],
+      "tags": [
+        "professional"
+      ],
+      "projects": [
+        "speaking_getinthegame",
+        "award_engineeringexcellence",
+        "award_professionaldev",
+        "cpp",
+        "csharp",
+        "visual_studio",
+        "perforce",
+        "speaking_devdays"
+      ]
+    },
+    {
+      "id": "origin",
+      "name": "Software Engineer",
+      "title": "Origin, EA",
+      "url": "http://www.origin.com",
+      "img": "./images/origin_title.png",
+      "desc": "June 2011 - January 2016",
+      "desc2": [
+        "Worked closely with creative/design team to transform raw artwork/wireframes into code representations with pixel-perfect accuracy. Enforced UI design and practices.",
+        "Feature owner for majority of Origin desktop client UI. (All except store, profile, and chat)",
+        "Worked in large, distributed development team. Lead and mentored junior engineers."
+      ],
+      "tags": [
+        "professional"
+      ],
+      "projects": [
+        "cpp",
+        "qt",
+        "jquery",
+        "angular1",
+        "perforce"
+      ]
+    },
+    {
+      "id": "totalimmersion",
+      "name": "Software Engineer",
+      "title": "Total Immersion Software",
+      "url": "http://www.totimm.com",
+      "img": "./images/totimm_title.png",
+      "desc": "February 2011 – June 2011 (studio location closed)",
+      "desc2": [
+        "Designed and constructed multiple tools for design team to create new content. C#/C++/SWIG"
+      ],
+      "tags": [
+        "professional"
+      ],
+      "projects": [
+        "csharp"
+      ]
+    },
+    {
+      "id": "chug",
+      "name": "Software Engineer – Consultant",
+      "title": "Chug",
+      "url": "www.chug.net",
+      "img": "./images/chug_title.png",
+      "desc": "October 2010 - December 2010",
+      "desc2": [
+        "Created website data remapping tool designed to analyze marketing data, developed in C++ and C#.",
+        "Created database and website to display market data: ApacheHTML, PHP, MySQL, and JavaScript. "
+      ],
+      "tags": [
+        "professional"
+      ],
+      "projects": [
+        "csharp"
+      ]
+    },
+    {
+      "id": "gingerdead",
+      "name": "Software Engineer",
+      "title": "Full Sail University - Ginger Dead",
+      "img": "./images/gingerdead_title.png",
+      "location": "Orlando, FL",
+      "desc": "October 2010 - December 2010",
+      "desc2": [
+        "3D survival defense game using C++, DirectX, Lua, and Wwise.",
+        "Team consists of 11 people: 1 Internal Producer, 8 Engineers, and 2 Artists.",
+        "Responsible for instancing animation by utilizing D3DX's animation support. Loaded in character and enemy attributes using Lua.",
+        "Project lead for special effects."
+      ],
+      "tags": [
+        "projects"
+      ],
+      "projects": [
+        "fullsail",
+        "cpp"
+      ]
+    },
+    {
+      "id": "kernedfont",
+      "name": "Software Engineer",
+      "title": "Side Project - Kerned Font / Bound Box Editor",
+      "img": "./images/KernedScreenShot.png",
+      "desc": "2009",
+      "desc2": [
+        "C# tool",
+        "Used for creating bounding boxes on an image. Reads and writes files."
+      ],
+      "tags": [
+        "projects"
+      ],
+      "projects": [
+        "fullsail",
+        "csharp"
+      ]
+    },
+    {
+      "id": "paintersnightmare",
+      "name": "Design & AI Lead, Gameplay engineer",
+      "title": "Painter's Nightmare",
+      "img": "./images/paintersnight_title.png",
+      "desc": "Full Sail University - 2009",
+      "desc2": [
+        "2D Real Time Strategy game. Developed by a team of four engineers, over a two-month timeframe using C++.",
+        "Made mini-map, unit editor (C# tool), AI (unit & enemy decision making - state machine), design doc authoritarian.",
+        "Received award 'Best Game in Show' - Dustin Clingman, CEO at IMI Labs, LLC."
+      ],
+      "projects": [
+        "cpp",
+        "visual_studio",
+        "award_painternightmare",
+        "fullsail"
+      ],
+      "tags": [
+        "projects"
+      ]
+    },
+    {
+      "id": "starbound",
+      "name": "Software Engineer",
+      "title": "Star Bound",
+      "img": "./images/starbound.png",
+      "desc": "Full Sail University - 2009",
+      "desc2": [
+        "2D tower climber. Created over a one-month timeframe using C++.",
+        "Reimaged from flash game off newgrounds.com",
+        "Received 4th place award in class competition for best game out of 30+ students"
+      ],
+      "tags": [
+        "projects"
+      ],
+      "projects": [
+        "fullsail",
+        "cpp"
+      ]
+    }
+  ]
+}
