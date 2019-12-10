@@ -36,6 +36,12 @@
   background: linear-gradient(to top,transparent 0,rgba(0,0,0,.6) 40%,rgba(0,0,0,.7) 50%);
 }
 
+@media (max-width:1120px){
+  .contentWrapper {
+    width: 100%;
+  }
+}
+
 .content {
   color: #eaeaea;
   padding-left: 100px;
