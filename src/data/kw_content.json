@@ -1,20 +1,8 @@
 {
   "tags": [
     {
-      "id": "education",
-      "name": "Education"
-    },
-    {
       "id": "skills",
       "name": "Skills"
-    },
-    {
-      "id": "awards",
-      "name": "Awards"
-    },
-    {
-      "id": "speaking",
-      "name": "Speaking"
     },
     {
       "id": "professional",
@@ -23,6 +11,18 @@
     {
       "id": "projects",
       "name": "Projects"
+    },
+    {
+      "id": "education",
+      "name": "Education"
+    },
+    {
+      "id": "awards",
+      "name": "Awards"
+    },
+    {
+      "id": "speaking",
+      "name": "Speaking"
     }
   ],
   "about": {
@@ -124,7 +124,7 @@
       "id": "jquery",
       "name": "jQuery",
       "title": "Intermediate",
-      "img": "./images/jQuery.png",
+      "img": "./images/jquery.png",
       "projects": [
         "origin",
         "pollev"
