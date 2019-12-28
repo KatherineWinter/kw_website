@@ -43,4 +43,6 @@
 .contentWrapper {
   margin: 36px 0 21px;
   transition: all .3s ease-in-out;
+  display: flex;
+  flex-wrap: wrap;
 }

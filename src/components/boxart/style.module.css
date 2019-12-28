@@ -9,3 +9,22 @@
   height: 200px;
   object-fit: cover;
 }
+
+.info {
+  letter-spacing: 1px;
+  line-height: 16px;
+  padding: 15px 0;
+  margin: auto;
+  text-align: center;
+}
+
+@media (max-width:380px){
+  .boxart {
+    width:  100px;
+  }
+
+  .boxart img {
+    width: 100px;
+    height: 100px;
+  }
+}

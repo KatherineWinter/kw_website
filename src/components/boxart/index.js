@@ -9,6 +9,7 @@ function Boxart(props) {
       onClick={() => props.handleChangeSelectedBoxId(id)}
     >
       <img src={img} alt={name} />
+      <div className={styles.info}>{name}</div>
     </div>
   );
 }
