@@ -1,12 +1,12 @@
 {
   "name": "kw-website-v3",
-  "homepage": "http://www.katherinewinter.com",
-  "version": "1.0.0",
+  "homepage": "https://www.katherinewinter.com",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^3.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
