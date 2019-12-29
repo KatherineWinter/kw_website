@@ -7,16 +7,23 @@ import Section from './components/section'
 import InformationPane from './components/information-pane'
 
 function changeSelectedBoxId (boxId) {
+  if (this.analytics) this.analytics.send('Box art', 'click', boxId)
   this.setState({ selectedBoxId: boxId })
 }
 
 export default class App extends React.Component {
   constructor(props) {
     super(props)
+    this.analytics = null
     this.state = {
       selectedBoxId: null,
       theme: 'lightTheme'
     }
+
+    import('./modules/analytics.js').then((analytics) => {
+      this.analytics = analytics
+      this.analytics.init()
+    });
   }
 
   render () {
