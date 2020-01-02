@@ -5,6 +5,8 @@
 
 * Introducing one friend group to another friend group.
 * Small parties
+* Making friends at a party
+* Handling unexpected guests
 * Party themes 
 * Getting ideas for your party
 * Syncing music across rooms
@@ -30,3 +32,5 @@
   * Try to prep things all at once
   * Put things that are done cooking in the oven to sit and out of the way
   * Foil containers sit will in the oven. There are really nice ones that have paper lids that can be stacked
+* how to 'double down' on a theme
+* Karaoke party 

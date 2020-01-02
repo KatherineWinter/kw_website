@@ -48,7 +48,7 @@ Decorating is fine, but make sure you master food, drink, and music first.
 
 Example: Flags, props, and steins -- simple but nice
 
-![party decorations](../../images/party/decoration_oktoberfest.jpg)
+![party decorations](images/decoration_oktoberfest.jpg)
 
 ### What type of food should be there?
 
@@ -58,7 +58,7 @@ Talking to strangers makes people extremely hungry. For that reason, finger food
 
 Make the food yourself or buy food in bulk trays from your favorite local restaurant. It’s not as expensive as you think. You can also ask your guests to pitch in. Don’t worry about hiring a catering service. Your guests can serve themselves.
 
-![rvsp](../../images/party/food_taco.jpg)
+![rvsp](images/food_taco.jpg)
 
 ### What kind of drinks would you serve?
 
@@ -89,7 +89,7 @@ There are two types of parties: Activity party and Non-activity party
 
 | Activity party        | Example |
 | ------------- | ------------- |
-| If you are going to have not chit-chat activities, make that clear in the event RSVP. Perhaps even include a schedule. Make it clear that's the schedule and what they are signing up for.  | ![rvsp](../../images/party/rsvp_expectations_activity.png) |
+| If you are going to have not chit-chat activities, make that clear in the event RSVP. Perhaps even include a schedule. Make it clear that's the schedule and what they are signing up for.  | ![rvsp](images/rsvp_expectations_activity.png) |
 
 **Non-activity party**
 
@@ -100,7 +100,7 @@ It’s hard enough to go to a party where you don’t know anyone. HOPEFULLY you
 **Passive activities**
 Passive activities include fire pits, leaving simple games out (Jenga), etc.
 
-![passive activities](../../images/party/passive_activities.jpg)
+![passive activities](images/passive_activities.jpg)
 
 
 ### RSVPs
@@ -116,22 +116,22 @@ Send reminders the day before.
 
 | RSVP format        | Example |
 | ------------- | ------------- |
-| Don’t waste your money and time on paper invites. The best kind of invites can be automatically added the the persons calendar. That way it can’t get lost or forgotten as easily. Try to come up with a fun name for the party. It makes it fun to reference and more appealing to say yes to. | ![rvsp](../../images/party/rsvp.png) |
+| Don’t waste your money and time on paper invites. The best kind of invites can be automatically added the the persons calendar. That way it can’t get lost or forgotten as easily. Try to come up with a fun name for the party. It makes it fun to reference and more appealing to say yes to. | ![rvsp](images/rsvp.png) |
 
 #### Guest expectations
 If it’s not a casual event, make that explicit in the invite. That’s the only time to do it. Include dinner formality (cocktail vs full dinner party). This give people time to brush up on their table manners.
 
 | Party type  | Example |
 | ------------- | ------------- |
-| Activity Party | ![rvsp](../../images/party/rsvp_expectations_activity.png) |
-| Non-activity Party | ![rvsp](../../images/party/rsvp_expectations_non_activity.png) |
+| Activity Party | ![rvsp](images/rsvp_expectations_activity.png) |
+| Non-activity Party | ![rvsp](images/rsvp_expectations_non_activity.png) |
 
 
 ### Don’t be lazy about your party. People will remember.
 
 You are just as good as your last party. The moment people have a bad experience, they are a lot less likely to come back.
 
-![Party review](../../images/party/party_reviews.png)
+![Party review](images/party_reviews.png)
 
 
 ## Party setup
@@ -154,7 +154,7 @@ By now, guests are good about arriving “fashionably late” for that reason, y
 
 The shape should be able to hold 4-8 people. Have more than one of these so if someone is bored they can more to the other shape. If these areas are outside, make sure it’s well shaded.
 
-![Party review](../../images/party/gathering_areas.jpg)
+![Party review](images/gathering_areas.jpg)
 
 ### Trash management
 
@@ -190,4 +190,4 @@ As the host, it’s your job to keep your guests happy. You are usually the only
 
 Ideally you can take peoples phones away on entry. Make a game of it. Give an award to those who do. Badge of honor. Maybe a sticker that says, “phone-less and proud”. Alternatively, give them the option to choose a surprise gift. As the host you are allowed to ask people to put away their phones. They went through all the trouble of arranging the party.
 
-![Party review](../../images/party/phone_gifts.jpg)
+![Party review](images/phone_gifts.jpg)

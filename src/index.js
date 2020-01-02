@@ -8,7 +8,7 @@ import {
 import './index.css';
 import App from './App';
 import NotFound from './NotFound';
-import Article from './components/article';
+import Article from './components/articles';
 import * as serviceWorker from './serviceWorker';
 
 const routing = (

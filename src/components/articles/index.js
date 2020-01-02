@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown/with-html'
 export default class Users extends React.Component {
   constructor(props) {
     super(props)
-    this.state ={
+    this.state = {
       article: null
     }
   }
@@ -14,8 +14,7 @@ export default class Users extends React.Component {
     const { params } = this.props.match
 
     try {
-      const med_party_tips = await import(`../../data/${params.article}.md`)
-      const result = await fetch(med_party_tips.default)
+      const result = await fetch(`${params.article}.md`)
       this.setState({ article: await result.text()})
     } catch (err) {
       this.setState({ article: err })
