@@ -1,9 +1,9 @@
 
 ## Future topics:
-* Why introverts should host parties 
+* Why introverts host the best parties
   * The whole time you are throwing the party, you are bouncing from person to person, never really ever talking long enough for things to get awkward. The guests should be talking to each other not to you. People want to be able to see you for a security blanket, but they don’t need you to talk to them. Of course, they will try to only talk to you. Your goal is to get them to talk to other guests.
 
-* Introducing one friend group to another friend group.
+* How-to introduce one friend group to another friend group
 * Small parties
 * Making friends at a party
 * Handling unexpected guests
@@ -32,5 +32,5 @@
   * Try to prep things all at once
   * Put things that are done cooking in the oven to sit and out of the way
   * Foil containers sit will in the oven. There are really nice ones that have paper lids that can be stacked
-* how to 'double down' on a theme
+* How to 'double down' on a theme without harming your party
 * Karaoke party 
