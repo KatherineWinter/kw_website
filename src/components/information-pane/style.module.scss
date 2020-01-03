@@ -9,6 +9,7 @@
   bottom: 0;
   background: #1e262c;
   animation: originOgdSlideLeftIntoPlace .5s cubic-bezier(.3,.6,.31,.91);
+  overflow-y: auto;
 }
 
 .headerImg {
@@ -193,7 +194,7 @@
   }
   
   img {
-    border-radius: 50%;
+    border-radius: 1em;
     height: 200px;
     margin: 0 auto;
     width: 200px;
@@ -249,12 +250,12 @@
   font-size: 26px;
   background: none;
   border: solid;
-  border-radius: 26px;
+  border-radius: 50%;
   padding-left: 7px;
   padding-right: 7px;
 }
 
-@media (max-width:1120px){
+@media (max-width:1120px) {
   .informationPane {
     width: 100%;
   }
@@ -263,8 +264,11 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+}
 
-  .content img{
+
+@media (max-width:380px) {
+  .content img {
     width: 100px;
     height: 100px;
   }

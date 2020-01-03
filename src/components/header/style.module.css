@@ -44,11 +44,13 @@
 .title {
   margin: 0;
   font-size: 15px;
+  font-weight: normal;
 }
 
 .name {
   margin: 0;
-  font-size: 30px;
+  font-weight: normal;
+  font-size: 3em;
 }
 
 .desc {

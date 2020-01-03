@@ -38,13 +38,13 @@
       {
         "id": "linkedin",
         "name": "LinkedIn",
-        "img": "./images/linkedin.png",
-        "url": "http://www.linkedin.com/in/katherinewinter"
+        "class": "fa-linkedin-square",
+        "url": "https://www.linkedin.com/in/katherinewinter"
       },
       {
         "id": "github",
         "name": "Github",
-        "img": "./images/github.png",
+        "class": "fa-github",
         "url": "https://github.com/KatherineWinter"
       }
     ]

@@ -5,12 +5,12 @@ export default function Header(props) {
   const { title, name, desc, img, links } = props.content
 
   const linksContent = links.map(link =>
-    <img
-      className={styles.link}
-      key={`link_${link.id}`}
-      src={link.img}
-      alt={link.name}
-      onClick={() => window.open(link.url)}/>
+    <a
+      href={link.url}
+      className={`icon ${link.class}`}
+      key={`link_${link.id}`}>
+        <span className="label">{link.name}</span>
+    </a>
   )
 
   return (
