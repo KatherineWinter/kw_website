@@ -1,1 +1,1 @@
-* [Healthy and sane](articles/team_development/healthy_sane)
+* [Healthy and sane](articles/wellness/healthy_sane)
