@@ -33,4 +33,14 @@
   * Put things that are done cooking in the oven to sit and out of the way
   * Foil containers sit will in the oven. There are really nice ones that have paper lids that can be stacked
 * How to 'double down' on a theme without harming your party
-* Karaoke party 
+
+Party types:
+  * Karaoke party
+  * bbq
+  * burgers
+  * Christmas
+  * New Years
+  * Octoberfest
+  * Outdoor movie night
+  * Taco party
+  * Breakfast party
