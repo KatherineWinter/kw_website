@@ -44,3 +44,16 @@ Party types:
   * Outdoor movie night
   * Taco party
   * Breakfast party
+  * 80s party / retro
+  * pajama 
+  * presentation party
+  * magical and fancy hot chocolate
+  * murder mystery
+  * small: painting party
+  * LAN party
+  * board game night
+  * family dinner
+  * movie night
+
+Simple drink ideas:
+* jelly shots
