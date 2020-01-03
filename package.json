@@ -4,6 +4,7 @@
   "version": "1.0.1",
   "private": true,
   "dependencies": {
+    "node-sass": "^4.13.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-markdown": "^4.2.2",

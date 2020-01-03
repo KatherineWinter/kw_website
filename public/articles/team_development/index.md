@@ -1,0 +1,7 @@
+* [Feedback Buddies](articles/team_development/feedback_buddies)
+* [Slack Empathy Office](articles/team_development/slack_empathy_office)
+* [Feature Complete](articles/team_development/feature_complete)
+* [Sprint Support Engineer](articles/team_development/sprint_support_engineer)
+* [Sprint Meetings](articles/team_development/sprint_meetings)
+* [Presentations](articles/team_development/presentations)
+* [Books](articles/team_development/presentations)

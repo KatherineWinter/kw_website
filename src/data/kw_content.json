@@ -46,12 +46,6 @@
         "name": "Github",
         "img": "./images/github.png",
         "url": "https://github.com/KatherineWinter"
-      },
-      {
-        "id": "blogspot",
-        "name": "Blogspot",
-        "img": "./images/blogger.png",
-        "url": "https://kb-software.blogspot.com/"
       }
     ]
   },
@@ -251,9 +245,8 @@
     {
       "id": "speaking_getinthegame",
       "name": "Orlando Sentinel",
-      "title": "Electronic Arts summer camp helps grow girls' interest in creating video games",
       "img": "./images/getinthegame.png",
-      "link": "https://www.orlandosentinel.com/business/os-cfb-electronic-arts-girl-gamers-20180712-story.html",
+      "markdown": "./articles/resume/speaking_getinthegame.md",
       "projects": [
         "frostbite"
       ],
@@ -265,8 +258,7 @@
       "id": "speaking_devdays",
       "img": "./images/devdays.jpg",
       "name": "Cross Team Frostbite Performance Validation",
-      "title": "EA Frostbite Conference: DevDays",
-      "desc": "Stockholm, Sweden",
+      "markdown": "./articles/resume/speaking_devdays.md",
       "tags": [
         "speaking"
       ],
@@ -276,9 +268,8 @@
     },
     {
       "id": "speaking_femmehack",
+      "markdown": "./articles/resume/speaking_femmehack.md",
       "name": "Femmhack",
-      "title": "EA: Recruiting Events",
-      "desc": "Created interview questions and conducted interviews for Software Engineer Interns-3. Recruitted at Grace Hopper Celebration (Texas and Orlando) and Femmhack (Philadelphia)",
       "img": "./images/femmhack.jpg",
       "tags": [
         "speaking"
@@ -290,9 +281,7 @@
     {
       "id": "speaking_eaerg",
       "img": "./images/eaerg.jpg",
-      "name": "EA: Womens ERG",
-      "title": "Culture and Gaming lead",
-      "desc": "Ran EA culture events that promoted retention and morale.",
+      "markdown": "./articles/resume/speaking_eaerg.md",
       "tags": [
         "speaking"
       ],
@@ -303,9 +292,8 @@
     {
       "id": "speaking_mentorship",
       "img": "./images/mentorship.jpg",
+      "markdown": "./articles/resume/speaking_mentorship.md",
       "name": "Mentorship",
-      "title": "EA && Girls Who Code && Get In The Game",
-      "desc": "Mentored junior engineers and set up actionable goals for engineers to progress in their careers.",
       "tags": [
         "speaking"
       ],
@@ -316,17 +304,9 @@
     },
     {
       "id": "pollev",
-      "name": "Software Engineering Manager",
-      "title": "Poll Everywhere",
+      "name": "Poll Everywhere",
       "img": "./images/pollev.jpg",
-      "desc": "January 2019 - Current",
-      "url": "wwww.polleverywhere.com",
-      "desc2": [
-        "Responsible for planning projects to address business goals in quarterly work plan.",
-        "Manager for three software engineers. Conducted one on ones and mentored them on career growth.",
-        "Created reports and metrics on how our systems were performing in the wild.",
-        "Enhanced development process for controlling quality and remain 'release ready'."
-      ],
+      "markdown": "./articles/resume/pollev.md",
       "tags": [
         "professional"
       ],
@@ -338,19 +318,9 @@
     },
     {
       "id": "frostbite",
-      "name": "System Engineer",
-      "title": "Frostbite, EA",
+      "name": "Frostbite, EA",
       "img": "./images/frostbite_title.jpg",
-      "desc": "January 2016 - January 2019",
-      "url": "www.frostbite.com",
-      "desc2": [
-        "Responsible for and created engineer development process. Resulted in the team delivering higher quality work and happier customers measured by NPS.",
-        "Gave presentations at internal EA conferences on performance metric tracking & development process",
-        "Created technology used across all Frostbite titles. Two pass layout system, multiline text input, etc",
-        "Provided engineering support for game team engineers. Harvest back game team additions to engine and finalized the features.",
-        "Responsible for writing and reviewing detailed technical documentation and technical designs.",
-        "Responsible for reviewing game team divergences, documenting, and creating scalable solutions."
-      ],
+      "markdown": "./articles/resume/frostbite.md",
       "tags": [
         "professional"
       ],
@@ -367,16 +337,9 @@
     },
     {
       "id": "origin",
-      "name": "Software Engineer",
-      "title": "Origin, EA",
-      "url": "http://www.origin.com",
+      "name": "Origin, EA",
+      "markdown": "./articles/resume/origin.md",
       "img": "./images/origin_title.png",
-      "desc": "June 2011 - January 2016",
-      "desc2": [
-        "Worked closely with creative/design team to transform raw artwork/wireframes into code representations with pixel-perfect accuracy. Enforced UI design and practices.",
-        "Feature owner for majority of Origin desktop client UI. (All except store, profile, and chat)",
-        "Worked in large, distributed development team. Lead and mentored junior engineers."
-      ],
       "tags": [
         "professional"
       ],
@@ -390,14 +353,9 @@
     },
     {
       "id": "totalimmersion",
-      "name": "Software Engineer",
-      "title": "Total Immersion Software",
-      "url": "http://www.totimm.com",
+      "name": "Total Immersion Software",
+      "markdown": "./articles/resume/totalimmersion.md",
       "img": "./images/totimm_title.png",
-      "desc": "February 2011 – June 2011 (studio location closed)",
-      "desc2": [
-        "Designed and constructed multiple tools for design team to create new content. C#/C++/SWIG"
-      ],
       "tags": [
         "professional"
       ],
@@ -407,15 +365,9 @@
     },
     {
       "id": "chug",
-      "name": "Software Engineer – Consultant",
-      "title": "Chug",
-      "url": "www.chug.net",
+      "name": "Chug",
       "img": "./images/chug_title.png",
-      "desc": "October 2010 - December 2010",
-      "desc2": [
-        "Created website data remapping tool designed to analyze marketing data, developed in C++ and C#.",
-        "Created database and website to display market data: ApacheHTML, PHP, MySQL, and JavaScript. "
-      ],
+      "markdown": "./articles/resume/chug.md",
       "tags": [
         "professional"
       ],
@@ -425,17 +377,9 @@
     },
     {
       "id": "gingerdead",
-      "name": "Software Engineer",
-      "title": "Full Sail University - Ginger Dead",
+      "name": "Ginger dead",
       "img": "./images/gingerdead_title.png",
-      "location": "Orlando, FL",
-      "desc": "October 2010 - December 2010",
-      "desc2": [
-        "3D survival defense game using C++, DirectX, Lua, and Wwise.",
-        "Team consists of 11 people: 1 Internal Producer, 8 Engineers, and 2 Artists.",
-        "Responsible for instancing animation by utilizing D3DX's animation support. Loaded in character and enemy attributes using Lua.",
-        "Project lead for special effects."
-      ],
+      "markdown": "./articles/resume/gingerdead.md",
       "tags": [
         "projects"
       ],
@@ -446,14 +390,9 @@
     },
     {
       "id": "kernedfont",
-      "name": "Software Engineer",
-      "title": "Side Project - Kerned Font / Bound Box Editor",
+      "name": "Side Project - Kerned Font / Bound Box Editor",
       "img": "./images/KernedScreenShot.png",
-      "desc": "2009",
-      "desc2": [
-        "C# tool",
-        "Used for creating bounding boxes on an image. Reads and writes files."
-      ],
+      "markdown": "./articles/resume/kernedfont.md",
       "tags": [
         "projects"
       ],
@@ -465,14 +404,8 @@
     {
       "id": "paintersnightmare",
       "name": "Design & AI Lead, Gameplay engineer",
-      "title": "Painter's Nightmare",
       "img": "./images/paintersnight_title.png",
-      "desc": "Full Sail University - 2009",
-      "desc2": [
-        "2D Real Time Strategy game. Developed by a team of four engineers, over a two-month timeframe using C++.",
-        "Made mini-map, unit editor (C# tool), AI (unit & enemy decision making - state machine), design doc authoritarian.",
-        "Received award 'Best Game in Show' - Dustin Clingman, CEO at IMI Labs, LLC."
-      ],
+      "markdown": "./articles/resume/paintersnightmare.md",
       "projects": [
         "cpp",
         "visual_studio",
@@ -485,15 +418,9 @@
     },
     {
       "id": "starbound",
-      "name": "Software Engineer",
-      "title": "Star Bound",
+      "name": "Star Bound",
       "img": "./images/starbound.png",
-      "desc": "Full Sail University - 2009",
-      "desc2": [
-        "2D tower climber. Created over a one-month timeframe using C++.",
-        "Reimaged from flash game off newgrounds.com",
-        "Received 4th place award in class competition for best game out of 30+ students"
-      ],
+      "markdown": "./articles/resume/starbound.md",
       "tags": [
         "projects"
       ],
@@ -504,31 +431,29 @@
     },
     {
       "id": "team_development",
-      "name": "Team development",
-      "title": "Frostbite, EA",
-      "img": "./images/frostbite_title.jpg",
-      "desc": "January 2016 - January 2019",
-      "url": "www.frostbite.com",
-      "desc2": [
-        "Responsible for and created engineer development process. Resulted in the team delivering higher quality work and happier customers measured by NPS.",
-        "Gave presentations at internal EA conferences on performance metric tracking & development process",
-        "Created technology used across all Frostbite titles. Two pass layout system, multiline text input, etc",
-        "Provided engineering support for game team engineers. Harvest back game team additions to engine and finalized the features.",
-        "Responsible for writing and reviewing detailed technical documentation and technical designs.",
-        "Responsible for reviewing game team divergences, documenting, and creating scalable solutions."
-      ],
+      "name": "Team Development",
+      "img": "./images/team_development.png",
+      "markdown": "./articles/team_development/index.md",
       "tags": [
         "interests"
-      ],
-      "projects": [
-        "speaking_getinthegame",
-        "award_engineeringexcellence",
-        "award_professionaldev",
-        "cpp",
-        "csharp",
-        "visual_studio",
-        "perforce",
-        "speaking_devdays"
+      ]
+    },
+    {
+      "id": "party",
+      "name": "Hosting Parties",
+      "img": "./articles/party/images/decoration_oktoberfest2.jpg",
+      "markdown": "./articles/party/index.md",
+      "tags": [
+        "interests"
+      ]
+    },
+    {
+      "id": "wellness",
+      "name": "Wellness",
+      "img": "./articles/wellness/images/pizza.jpg",
+      "markdown": "./articles/wellness/index.md",
+      "tags": [
+        "interests"
       ]
     }
   ]
