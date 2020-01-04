@@ -3,10 +3,15 @@
 There are many at-home karaoke setup options. Here is my setup:
 
 ## My setup
-TV
+
+| TV        |
+| ------------- |
+| It doesn't matter what TV you have as long as it has an HDMI port |
+
 | Mixer        | Amazon link |
 | ------------- | ------------- |
-| ![Mixer](images/mixer.png) | [Mixer](https://smile.amazon.com/gp/product/B00VUU702A/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) |
+| ![Mixer](images/mixer.png) | [Mackie Mixer](https://smile.amazon.com/gp/product/B00VUU702A/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) |
+
 * Output: Stereo
 * Input: Apple TV - We connect our phones and use spotify to play karaoke songs. Most people use a laptop.
 
