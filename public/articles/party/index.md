@@ -1,4 +1,5 @@
 * [Medium-to-Large Party Tips](articles/party/med_party_tips)
+* [Home Karaoke Setup](articles/party/home_karaoke)
 
 ## Maybe future content
 * Why introverts host the best parties
