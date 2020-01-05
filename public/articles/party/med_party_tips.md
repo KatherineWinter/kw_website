@@ -1,6 +1,6 @@
 # Medium-to-Large Party Tips
 
-Throwing a medium to large party can be intimidating. I’m going to share my experience for throwing a successful party. These are tips for 9+ guests.
+#### Throwing a medium to large party can be intimidating. I’m going to share my experience for throwing a successful party. These are tips for 9+ guests.
 
 ## Planning the party
 
@@ -162,7 +162,7 @@ Keep trash clearly visible near food and drinks. Keep extra trash bags around fo
 
 ### Signs for the bathroom
 
-Post signs (printer paper and sharpie is fine) on directions to find the bathroom. You have completed your goal of no one asks where it is.
+Post signs (printer paper and sharpie is fine) on directions to find the bathroom. No one should ask where the bathroom is.
 
 ### “Don’t make me think”
 
