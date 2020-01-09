@@ -149,6 +149,7 @@
       "title": "Beginner",
       "img": "./images/react.png",
       "projects": [
+        "lrcmaker"
       ],
       "tags": [
         "skills"
@@ -373,6 +374,18 @@
       ],
       "projects": [
         "csharp"
+      ]
+    },
+    {
+      "id": "lrcmaker",
+      "name": "LRC Maker",
+      "img": "./images/lrcmaker.png",
+      "markdown": "./articles/resume/lrcmaker.md",
+      "tags": [
+        "projects"
+      ],
+      "projects": [
+        "react"
       ]
     },
     {
