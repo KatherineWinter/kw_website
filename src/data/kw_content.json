@@ -461,6 +461,15 @@
       ]
     },
     {
+      "id": "sewing",
+      "name": "Sewing",
+      "img": "./articles/sewing/images/mask.jpg",
+      "markdown": "./articles/sewing/index.md",
+      "tags": [
+        "interests"
+      ]
+    },
+    {
       "id": "wellness",
       "name": "Wellness",
       "img": "./articles/wellness/images/pizza.jpg",
