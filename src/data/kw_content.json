@@ -215,6 +215,7 @@
       "id": "award_unsunghero",
       "name": "2012: Origin Unsung Hero",
       "img": "./images/unsung_hero.png",
+      "markdown": "./articles/resume/unsung_hero.md",
       "projects": [
         "origin"
       ],
@@ -225,6 +226,7 @@
     {
       "id": "award_engineeringexcellence",
       "name": "Nominated 2018: Excellence in Engineering",
+      "markdown": "./articles/resume/award_engineeringexcellence.md",
       "img": "./images/career_dev.jpg",
       "projects": [
         "frostbite"
@@ -236,9 +238,23 @@
     {
       "id": "award_professionaldev",
       "name": "Nominated 2018: Professional Development",
+      "markdown": "./articles/resume/award_professionaldev.md",
       "img": "./images/career_dev.jpg",
       "projects": [
         "frostbite"
+      ],
+      "tags": [
+        "awards"
+      ]
+    },
+    {
+      "id": "pollev_awards_2019",
+      "name": "Poll Everywhere Awards 2019",
+      "title": "Poll Everywhere",
+      "img": "./images/pollev.jpg",
+      "markdown": "./articles/resume/pollev_2019.md",
+      "projects": [
+        "pollev"
       ],
       "tags": [
         "awards"
