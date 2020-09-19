@@ -93,7 +93,7 @@
       "title": "Intermediate",
       "img": "./images/csharp.png",
       "projects": [
-        "fullsail",
+        "pollev",
         "frostbite",
         "totalimmersion",
         "chug",
@@ -110,9 +110,10 @@
       "title": "Intermediate",
       "img": "./images/javascript.png",
       "projects": [
+        "pollev",
+        "lrcmaker",
         "origin",
-        "chug",
-        "pollev"
+        "chug"
       ],
       "tags": [
         "skills"
@@ -282,12 +283,10 @@
     {
       "id": "speaking_eaerg",
       "img": "./images/eaerg.jpg",
+      "name": "ERG - Culture and Gaming lead",
       "markdown": "./articles/resume/speaking_eaerg.md",
       "tags": [
         "speaking"
-      ],
-      "projects": [
-        "fullsail"
       ]
     },
     {
@@ -374,6 +373,18 @@
       ],
       "projects": [
         "csharp"
+      ]
+    },
+    {
+      "id": "goodneighbor",
+      "name": "Good Neighbor",
+      "img": "./images/goodneighbor.png",
+      "markdown": "./articles/resume/goodneighbor.md",
+      "tags": [
+        "projects"
+      ],
+      "projects": [
+        "react"
       ]
     },
     {
