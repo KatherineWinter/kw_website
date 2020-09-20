@@ -4,11 +4,11 @@
 
 January 2019 - Current
 
-I manage the Applications team and have deliever on some individual contributor work. Currently, four engineers report to me.
+I manage the Applications team and have deliever individual contributor work. Currently, four engineers report to me.
 
 - Responsible for the output of my team.
-    - I meet with my reportees weekly or bi-weekly, depending on the needs on the individual.
-    - I work with each of my reportees to create annual goals based off the engineers levels and company values.
+    - I meet with my reportees weekly or bi-weekly, depending on the needs of the individual.
+    - I work with each of my reportees to create annual goals based on the engineers levels and company values.
     - I provide context to each of my reportees. This empowers my reportees to see "the bigger picture". 
     - I push my reportees to [become a force in our organization.](have_impact)
 - Builds trusting relationships with reportees and maintains team cohesion.
@@ -30,20 +30,20 @@ I manage the Applications team and have deliever on some individual contributor 
     - Throughout the year, I work with each of my team to create annual goals. The goals are inspired by the engineers levels and company values.
 - Provides strong input when hiring for my team.
 - Builds trusting relationships between teams to maintain department cohesion. Defines and oversees initiatives that improve the effectiveness of the entire department and guide teams toward the outcome metric.
-    - [I work with other department heads to improve the organization, and make it a team goal to improve the work-lifes of our partners.](articles/team_development/partner_experience)
-     - I work with heads of departments to schedule my team to work on cross-department initiatives and projects.
+    - [I work with other department heads to improve the organization, and make it a team goal to improve the work-lives of our partners.](articles/team_development/partner_experience)
+    - I work with heads of departments to schedule my team to work on cross-department initiatives and projects.
     - I paired with the heads of departments to create the Management Levels at Poll Everywhere.
     - I paired with the heads of departments to create the Engineering Vision for Poll Everywhere.
     - I paired with the heads of departments to create the Engineering Strategy for Poll Everywhere.
 - Success is measured against an outcome metric
-    - I create reports and metrics on how our products and systems were performing in the wild.
-    - I create reports and metrics on what the Customer Support cost the products my team are responsible for is impact the company.
+    - I create reports and metrics on how our products and systems are performing in the wild.
+    - I create reports and metrics on what the Customer Support cost the products my team are responsible for impacts on the company.
     - I make these metrics available in a dashboard and present to the company.
 - Builds support with stakeholders to deliver initiatives that impact my team's outcome metric
     - I pair with the heads of departments to see what data would help them make decisions. I collaborate on how they measure the success of my team.
 - Develops leadership, collaboration, and communication skills to support department autonomy.
     - I attend leadership and product team meetings and speak on behalf of my team.
-    - I give company wide presentations on behalf my team.
+    - I give company wide presentations on behalf of my team.
 - Balances many responsibilities. Effectively delegates lower leverage tasks.
     - 1:1s
     - Documentation
