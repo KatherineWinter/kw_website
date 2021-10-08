@@ -10,7 +10,7 @@
 
 **Resouces**
 * [Presentations](articles/team_development/presentations)
-* [Books](articles/team_development/presentations)
+* [Books](articles/team_development/books)
 * [Book club](articles/team_development/book_club)
 * [Vision Template](articles/team_development/vision_template)
 * [Code Commit Template and Checklist](code_commits_checklist)
