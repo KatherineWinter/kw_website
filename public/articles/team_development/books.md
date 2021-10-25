@@ -17,6 +17,7 @@ I'm always trying to find ways to up my skills. Here are my favorite resources.
 * [Building Resilience as a Leader](https://www.linkedin.com/learning/building-resilience-as-a-leader/resilience-and-leadership?u=2157642)
 * Wong, C., & Law, K. (2002, June). The effects of leader and follower emotional intelligence on performance and attitude: An exploratory study. The Leadership Quarterly, 13(3), 243-274.
 * [Role of Emotional Intelligence in Effective Leadership International](https://www.ijemr.net/DOC/RoleOfEmotionalIntelligenceInLeadershipEffectiveness.PDF)
+* [Having Difficult Conversations](https://www.linkedin.com/learning/having-difficult-conversations-2018/difficult-conversations?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2157642)
 
 ## Good
 * [Basecamp: Shape Up](https://basecamp.com/shapeup)
