@@ -2,8 +2,8 @@ From a few books i have read regarding giving critical feedback:
 
 1. Think to self, “Is this the right time for feedback? Why am I giving them feedback now?”
 1. Ask if other person is open to feedback before giving the feedback
-1. Do not make the feedback personal (ie. phrase it on how this was not about me, but about you “The way X impacted me.. or “This is less about you, but more about how I took X situation…“)
 1. Have a specific example
+1. Do not make the feedback personal (ie. phrase it on how this was not about me, but about you “The way X impacted me.. or “This is less about you, but more about how I took X situation…“). Remember, this may not be how they sees themselves or others see it, this is how it landed with you.
 1. Identify how it was impacting you/the team
 1. Be specific of what you would like to see - keep in mind the "TASK" acronym (stands for Timely, Actionable, Specific and Kind) and ensure that I'm hitting all 4 points
 
