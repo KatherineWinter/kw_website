@@ -1,5 +1,5 @@
 # The 5cs for Psychological safety
-I went to this webinar today: Webinar Signup! How to Create Psychological Safety at Work Using the 5CS. Here are my notes from it:
+I went to this webinar today:[ Webinar Signup! How to Create Psychological Safety at Work Using the 5CS](https://info.kainexus.com/continuous-improvement/how-to-create-psychological-safety-at-work-using-the-5cs/webinar/signup). Here are my notes from it:
 
 ## Clear expectations:
 
