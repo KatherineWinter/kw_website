@@ -1,17 +1,17 @@
 # Giving Feedback
 
-It is common to give feedback often and quickly in the corporate world. However, are ideal feedback formats? The goal of this article is to decode common feedback situations.
+It is common to give feedback often and quickly in the corporate world. However, what are ideal feedback formats? The goal of this article is to decode common feedback situations.
 
 ## Formal feedback
-Corporates typically have an annual or bi-annual feedback cycle. Often the feedback request is vague or blank. In this case, try the format "The Good, Opportunities, and Overall." This format usually covers all bases of what people were looking for but didn't ask. You will look like a feedback superhero. Under each section, start a bulleted list of everything you think of when you think of the person. Once the list is complete, try to put it in sentence form.
+Corporations typically have an annual or bi-annual feedback cycle. Often the feedback request is vague or blank. In this case, try the format "The Good, Opportunities, and Overall." This format usually covers all bases of what people were looking for but didn't ask. You will look like a feedback superhero. Under each section, start a bulleted list of everything you think of when you think of the person. Once the list is complete, try to put it in sentence form.
 
-### Fictional example:
+**Fictional example**
 
 THE GOOD
-You did an excellent job in the meetings this week. When Sandra seemed confused about the expectations for the project, you did an excellent job of course correcting the situation. I liked how you asked her about her current understanding of the project before trying to guide her. That shows artful skills in emotional intelligence.
+You did an excellent job in meetings this week. When Sandra seemed confused about the expectations for the project, you did an excellent job of course correcting the situation. I liked how you asked her about her current understanding of the project before trying to guide her. That shows artful skills in emotional intelligence.
 
 OPPORTUNITIES
-You get excited about projects and execute them very quickly. You could improve our organization and multiply your efforts by documenting as you go along. That way, if you are on PTO, we are completely recovered. It is an excellent opportunity to show your leadership skills by making leaders out of others.
+You get excited about projects and execute them very quickly. You could improve our organization and multiply your efforts by documenting as you go along. That way, if you are on PTO, we are completely covered. It is an excellent opportunity to show your leadership skills by making leaders out of others.
 
 OVERALL
 You are an AWESOME teammate. I love how you care about the success of this project. That excitement is contagious!
@@ -25,9 +25,9 @@ Giving crucial feedback is always challenging. Usually, crucial feedback is unpr
 1. Have a specific example.
 1. Do not make the feedback personal (i.e., phrase it as how this was not about them, but about you, "The way X impacted me.. or "This is less about you, but more about how I took X situation… "). Remember, this may not be how they see themselves or others see it. It is how it landed with you.
 1. Identify how it was impacting you/the team.
-1. Be specific about what you would like to see - keep in mind the "TASK" acronym (stands for Timely, Actionable, Specific, and Kind) and ensure that I'm hitting all 4 points.
+1. Be specific about what you would like to see - keep in mind the "TASK" acronym (stands for Timely, Actionable, Specific, and Kind). Ensure that you hit all 4 points.
 
-### Fictional example:
+**Fictional example**
 
 **Me:** “Hi Ryan, are you open for feedback?”
 **Ryan:** “yes”
