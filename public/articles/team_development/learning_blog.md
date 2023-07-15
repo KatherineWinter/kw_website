@@ -2,6 +2,18 @@
 
 Resources I find that I enjoy.
 
+## July 15, 2023
+
+**Meeting formula**
+
+I read an article called [Driving Workplace Performance Through High-Quality Conversations](https://devddiwww.azurewebsites.net/research/driving-workplace-performance-through-high-quality-conversations). It had a range of topics regarding leadership conversation styles, but I particularly liked this breakdown of Interaction Guidelines. In my view, this should be the formula for most meetings (many do not):
+
+* **OPEN:** Ensures that discussions have a clear purpose and that everyone understands the importance of accomplishing it.
+* **CLARIFY:** There are two types of information to collect in this step—1) facts and figures, and 2) issues and concerns. Both are essential to building a complete picture of the situation.
+* **DEVELOP:** When developing ideas, it is important to ask questions and include others in the process. Most likely, leaders will have ideas about what to do, and they should share them. However, they should put equal emphasis on seeking others’ ideas.
+* **AGREE:** Leaders and the people involved in the conversation should agree on a plan for following through on the ideas that were developed and for supporting those who will take action.
+* **CLOSE:** The final chance to check that everyone is clear on agreements and next steps and committed to following through.
+
 ## July 11, 2023
 
 Here is a fun homework I had to do for my MBA class if anyone wants to do it for themselves:
