@@ -31,11 +31,27 @@ Giving crucial feedback is always challenging. Below are a few tips on the appro
 1. Don't build a script. The conversation may take an unexpected turn, and you may be caught off guard and come across as artificial. Be ready for multiple responses. The language should be clear, direct, and neutral.
 1. Keep an open mind. The other person will have a different perspective on the situation. "What is the problem? What does the other person think is the problem? If you aren’t sure of the other person’s viewpoint, acknowledge that you don’t know and ask.” [(Knight, 2015)](https://hbr.org/2015/01/how-to-handle-difficult-conversations-at-work)
 
+
+### Consider Your Relationship (care/candor checklist)
+
+Don't avoid having a crucial conversation if you have a working relationship with someone or have a stake in their development. However, if neither is the case, consider if you are the best person to have a candor conversation with. I have been burnt by giving feedback to someone who did not know me or my intentions and me not knowing their situation. For that reason, I do follow the care/candor checklist that is outlined in the book The 5 Levels of Leadership and listed on [Maxwell's (2010)](https://www.johnmaxwell.com/blog/for-leaders-balancing-care-with-candor/) website:
+
+1. Have I invested enough in the relationship to be candid with them?
+1. Do I truly value this person?
+1. Am I sure this is their issue and not mine?
+1. Am I sure I am not speaking up because I feel threatened?
+1. Is the issue more important than the relationship?
+1. Does this conversation clearly serve their interests and not just mine?
+1. Am I willing to invest time and energy to help them change?
+1. Am I willing to show them how to do something, not just say what is wrong?
+1. Am I willing and able to set clear, specific expectations?
+
+
 ### Feedback Formula
 
 Usually, crucial feedback is unprompted and must be timely to be effective. However, there is a simple formula to make the experience more accessible. The following are ideal steps for feedback success:
 
-1. Think to yourself, "Is this the right time for feedback? Why am I giving them feedback now? Is this a pet peeve or having a real performance impact?" If you have a pet peeve, make that clear.
+1. Think to yourself, "Is this the right time for feedback? Why am I giving them feedback now? Do I have the relationship to have a candor conversation with this person? Is this a pet peeve or having a real performance impact?" If you have a pet peeve, make that clear.
 1. Ask if the other person is open to feedback before giving the feedback.
 1. Have a specific example.
 1. Do not make the feedback personal (i.e., phrase it as how this was not about them, but about you, "The way X impacted me.. or "This is less about you, but more about how I took X situation… "). Remember, this may not be how they see themselves or others see it. It is how it landed with you.
