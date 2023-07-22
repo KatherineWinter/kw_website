@@ -1,19 +1,22 @@
 # Giving Feedback
 
-It is common to give feedback often and quickly in the corporate world. However, what are ideal feedback formats? The goal of this article is to decode informal and formal feedback situations.
+In the professional realm, offering feedback is integral to the growth and development process. However, striking a balance between constructive and critical can be challenging. This article aims to navigate through the complexities of feedback, dissecting the methods, timing, and strategies that ensure both effectiveness and receptivity. The focus ranges from the structure of formal feedback to the nuanced art of crucial, unsolicited feedback to provide a comprehensive understanding of best practices in corporate communication.
 
-## Formal feedback
+## Giving Formal Feedback
 Corporations typically have an annual or bi-annual feedback cycle. Often the feedback request is vague or blank. In this case, try the format "The Good, Opportunities, and Overall." This format usually covers all bases of what people sought but didn't ask. You will look like a feedback superhero. Under each section, start a bulleted list of everything you think of when you think of the person. Once the list is complete, try to put it in sentence form.
 
 **Fictional example**
 
 THE GOOD
+
 You did an excellent job in meetings this week. When Sandra seemed confused about the expectations for the project, you did a fantastic job, of course, correcting the situation. I liked how you asked her about her current understanding of the project before trying to guide her. That shows artful skills in emotional intelligence.
 
 OPPORTUNITIES
+
 You get excited about projects and execute them very quickly. You could improve our organization and multiply your efforts by documenting as you go along. That way, if you are on PTO, we are entirely covered. It is an excellent opportunity to show your leadership skills by making leaders out of others.
 
 OVERALL
+
 You are an AWESOME teammate. I love how you care about the success of this project. That excitement is contagious!
 
 
@@ -34,7 +37,7 @@ Giving crucial feedback is always challenging. Below are a few tips on the appro
 
 ### Consider Your Relationship (care/candor checklist)
 
-Don't avoid having a crucial conversation if you have a working relationship with someone or have a stake in their development. However, if neither is the case, consider if you are the best person to have a candor conversation with. I have been burnt by giving feedback to someone who did not know me or my intentions and me not knowing their situation. For that reason, I do follow the care/candor checklist that is outlined in the book The 5 Levels of Leadership and listed on [Maxwell's (2010)](https://www.johnmaxwell.com/blog/for-leaders-balancing-care-with-candor/) website:
+Don't avoid having a crucial conversation if you have a working relationship with someone or have a stake in their development. However, if neither is the case, consider if you are the best person to have a candor conversation with. Giving feedback to someone who didn't know me or my intentions and whose situation I didn't understand has burnt me before. For that reason, I do follow the care/candor checklist that is outlined in the book The 5 Levels of Leadership and listed on [Maxwell's (2010)](https://www.johnmaxwell.com/blog/for-leaders-balancing-care-with-candor/) website:
 
 1. Have I invested enough in the relationship to be candid with them?
 1. Do I truly value this person?
@@ -64,17 +67,17 @@ Usually, crucial feedback is unprompted and must be timely to be effective. Howe
 
 **Me:** “Hi Ryan, are you open for feedback?”
 **Ryan:** “Yes”
-**Me:** “I want to give you this feedback because I value our relationship and want us to be aligned in conversations moving forward. This has to do with my perception, not you, but during the bug bash and this morning, I have been reading your responses as a little more defensive than curious. For example, when I asked if we had any logging on why a game didn't download during the bug bash, you said no and swiftly moved on to another topic. I didn’t feel you were open to hearing why we might find that valuable or having my concern resolved.
+**Me:** “I want to give you this feedback because I value our relationship and want us to be aligned in conversations moving forward. This feedback concerns my perception, not you, but during the bug bash and this morning, I have been reading your responses as a little more defensive than curious. For example, when I asked if we had any logging on why a game didn't download during the bug bash, you said no and swiftly moved on to another topic. I didn’t feel you were open to hearing why we might find that valuable or having my concern resolved.
 
 Slowing down in conversations would open up the floor for people like myself to express their opinions. Before moving on to another topic, please give me a moment to say my POV and why I believe it is crucial. Then help me understand your POV or what missing information I have. What are your thoughts?”
 
 ## Formula to Handle Receiving Emotionally Charged Feedback
 
-[I like this article](https://hbr.org/2016/01/defusing-an-emotionally-charged-conversation-with-a-colleague) on handling emotionally charged conversations and utilizing the PEARLS approach. The article discusses how discussions can escalate quickly when the task and relationship channels are mixed.
+[Friedman (2016)](https://hbr.org/2016/01/defusing-an-emotionally-charged-conversation-with-a-colleague) has a great article on handling emotionally charged conversations and utilizing the PEARLS approach. The report points out that discussions can escalate quickly when we mix task and relationship channels.
 
-“task-focused disagreement becomes contaminated with concerns about our relationship. And when that happens, things escalate. Fast.”
+“Task-focused disagreement becomes contaminated with concerns about our relationship. And when that happens, things escalate. Fast.”
 
-The PEARLS approach is a great formula for handling emotionally charged:
+The PEARLS approach is an excellent formula for handling emotionally charged:
 
 * **Partnership:**
   * “I really want to work on this with you.”
@@ -82,7 +85,7 @@ The PEARLS approach is a great formula for handling emotionally charged:
 * **Empathy:**
   * “I can feel your enthusiasm as you talk.”
   * “I can hear your concern.”
-* **Acknowledgement:**
+* **Acknowledgment:**
   * “You clearly put a lot of work into this.”
   * “You invested in this, and it shows.”
 * **Respect:**
@@ -97,7 +100,8 @@ The PEARLS approach is a great formula for handling emotionally charged:
 
 ## Overall
 
-I hope this article helped decode various feedback formats. If you would like to dive deeper into how to give great feedback, check out the following resources:
+In conclusion, providing formal or crucial feedback requires thoughtful preparation and insightful execution. Understanding the recipient's perspective, a balanced tone and a structured conversation can lead to constructive outcomes. The PEARLS approach, TASK, and various other methods discussed in this article can serve as a guiding light to ensure feedback is communicated, well-received, and acted upon. Mastering these techniques can transform feedback from a dreaded confrontation into a meaningful dialogue that promotes growth and mutual understanding. For a deeper dive into providing exceptional feedback, the resources listed below can offer further insights.
+
 * [Crucial Conversations](https://www.amazon.ca/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822)
 * [The 15 Commitments of Conscious Leadership](https://www.amazon.ca/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/ref=sr_1_3?dchild=1&keywords=The+Conscious+Leadership+book&qid=1634679762&s=books&sr=1-3)
 * [Having Difficult Conversations](https://www.linkedin.com/learning/having-difficult-conversations-2018/difficult-conversations?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2157642)
