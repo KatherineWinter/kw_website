@@ -2,7 +2,7 @@
 
 In the realm of professional development, providing feedback is a critical component. Yet, balancing constructive and critical elements can be a delicate task. This article delves into the complexities surrounding feedback, dissecting various methods, timing, and strategies that ensure it is both effective and well-received. It explores everything from the structure of formal feedback to the art of delivering crucial, unsolicited feedback, all with an aim to offer a comprehensive understanding of best practices in corporate communication.
 
-A quick note before we proceed - while the principles discussed here are universally applicable, their implementation may vary depending on cultural context. I'm an American, and this article is primarily rooted in the practices common in the United States, typically a low-context culture. For instance, in high-context cultures such as those prevalent in Japan, feedback tends to be less explicit and direct. It is crucial to adapt the principles discussed in this article to align with the cultural norms in your specific professional environment. For the purposes of this discussion, let's explore the topic from a low-context cultural perspective, keeping in mind the need to adapt and adjust as necessary for different cultural contexts and recipient preferences.
+A quick note before we proceed - while the principles discussed here are universally applicable, their implementation may vary depending on cultural context. I'm an American, and this article is primarily rooted in the practices common in the United States, typically a low-context culture. For instance, in high-context cultures such as those prevalent in Japan, feedback tends to be less explicit and direct. Adapting the principles discussed in this article to align with the cultural norms in your specific professional environment is crucial. For the purposes of this discussion, let's explore the topic from a low-context cultural perspective, keeping in mind the need to adapt and adjust as necessary for different cultural contexts and recipient preferences.
 
 ## Giving Formal Feedback
 Corporations typically have an annual or bi-annual feedback cycle. Often the feedback request is vague or blank. In this case, try the format "The Good, Opportunities, and Overall." This format usually covers all bases of what people sought but didn't ask. You will look like a feedback superhero. Under each section, start a bulleted list of everything you think of when you think of the person. Once the list is complete, try to put it in sentence form.
@@ -61,10 +61,10 @@ Usually, crucial feedback is unprompted and must be timely to be effective. Howe
 
 1. Think to yourself, "Is this the right time for feedback? Why am I giving them feedback now? Do I have the relationship to have a candor conversation with this person? Is this a pet peeve or having a real performance impact?" If you have a pet peeve, make that clear.
 1. Ask if the other person is open to feedback before giving the feedback.
-1. Have a specific example.
-1. Do not make the feedback personal (i.e., phrase it as how this was not about them, but about you, "The way X impacted me.. or "This is less about you, but more about how I took X situation… "). Remember, this may not be how they see themselves or others see it. It is how it landed with you.
-1. Identify how it was impacting you/the team.
-1. Be specific about what you want to see - generate the feedback to hit all of these points: Timely, Actionable, Specific, and Kind (TASK).
+1. Lead with behavior: Have a specific behavioral example. Do not confuse behavior with attitude. Behaviors are a person's actions and reactions towards others or situations. Attitudes are ways of thinking or feeling about a topic.
+1. Eliminate judgment: Do not make the feedback personal (i.e., phrase it as how this was not about them, but about you, "The way X impacted me.." or "This is less about you, but more about how I took X situation… "). Remember, this may not be how they see themselves or others see it. It is how it landed with you or the team.
+1. Be clear: Identify how it impacted you/the team.
+1. Be clear: Be specific about what you want to see - generate the feedback to hit all of these points: Timely, Actionable, Specific, and Kind (TASK).
 1. Ask them for their perspective by asking an open-ended question. Have empathy and listen. Pay attention to their body language and tone of voice. The goal is to understand what is important to them and to understand their point of view. As mentioned, your perspective is not their perspective. The open-ended question will open the conversation and may prevent the person from being defensive.
 1. Agree on the summary, next steps, and timeline of follow-up.
 
@@ -123,3 +123,27 @@ So, why wait? Start reshaping your feedback strategy today. Step into your next 
 
 * [Feedback Buddies](https://blog.polleverywhere.com/feedback-buddies/): A model for feedback between peers.
 * [Crucial Conversations](https://www.amazon.ca/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822): An excellent book discussing more tactics on giving cruical conversations.
+
+**Appendix**
+
+*Behavior vs. Attitudes*
+
+![Behavior vs. Attitudes](images/observe_vs_assumption.jpeg "Behavior vs. Attitudes")
+
+Green, M. E. (2013). Painless performance conversations: A practical approach to critical day-to-day workplace discussions. Hoboken, NJ: John Wiley & Sons.
+
+*Cultural Deltas*
+
+There are many strategies to take when dealing with employees with different cultural perspectives. Glassdoor (2019) suggests the following approach:
+
+1. Learn to recognize communication gaps.
+1. Evaluate your communication style.
+1. Learn to identify challenges while being culturally sensitive. 
+1. Continue working toward development.
+
+Regarding items 1 & 2, ask and learn the other person about their preferences in communication. Reflect when something seems amiss. Are you avoiding having a conversation with the person? Does the other person have missing information? Reflect on your preferences; do you prefer low or high-context communication?
+
+Regarding items 3 & 4, consider doing cross-cultural training or research after learning about the other person's preferences. Continue to build a growth mindset. The internet has many resources, and some experts can help unpack any uncomfortable deltas. Remember, the person you are trying to communicate with isn't responsible for educating you.
+
+Glassdoor Team. (2021, June 29). High Context Culture: What Does It Mean and How to Adapt. Glassdoor. Retrieved July 30, 2023, from https://www.glassdoor.com/blog/guide/high-context-culture/
+
