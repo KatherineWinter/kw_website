@@ -124,15 +124,15 @@ So, why wait? Start reshaping your feedback strategy today. Step into your next 
 * [Feedback Buddies](https://blog.polleverywhere.com/feedback-buddies/): A model for feedback between peers.
 * [Crucial Conversations](https://www.amazon.ca/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822): An excellent book discussing more tactics on giving cruical conversations.
 
-**Appendix**
+# Appendix
 
-*Behavior vs. Attitudes*
+## Behavior vs. Attitudes*
 
 ![Behavior vs. Attitudes](images/observe_vs_assumption.jpeg "Behavior vs. Attitudes")
 
 Green, M. E. (2013). Painless performance conversations: A practical approach to critical day-to-day workplace discussions. Hoboken, NJ: John Wiley & Sons.
 
-*Cultural Deltas*
+## Cultural Deltas
 
 There are many strategies to take when dealing with employees with different cultural perspectives. Glassdoor (2019) suggests the following approach:
 
@@ -147,3 +147,38 @@ Regarding items 3 & 4, consider doing cross-cultural training or research after 
 
 Glassdoor Team. (2021, June 29). High Context Culture: What Does It Mean and How to Adapt. Glassdoor. Retrieved July 30, 2023, from https://www.glassdoor.com/blog/guide/high-context-culture/
 
+## Communication is fundamental to building trust
+
+Self-Assessment: Are you a Communications Champion?
+
+Do a quick and easy self-assessment to assess whether you're a Communications Champion. Periodically ask yourself seven simple questions and tabulate your score. Track the ups and downs at the end of each business quarter. Indicate your personal score using a scale of 1 to 10, where 1 is the extreme low and 10 is the extreme high.
+
+1. I "walk the talk" by championing open communication in my company/organization. Strongly disagree 1 2 3 4 5 - Agree somewhat - 6 7 8 9 10 Strongly agree
+2. When I consider the communication strategies and activities implemented by communication staff, how actively involved am I in those appropriate to my position? Not at all involved 1 2 3 4 5 - Somewhat involved - 6 7 8 9 10 Totally involved
+3. How often do I meet with staff to ensure I have regular dialogue with employees? Never 1 2 3 4 5 - Sometimes - 6 7 8 9 10 As a regular priority
+4. How seriously do I consider acting on the feedback I get from employees? Not at all seriously 1 2 3 4 5 - Somewhat seriously - 6 7 8 9 10 Extremely seriously
+5. Am I always truthful about the information I share with staff about our mission, vision, and strategy? Never 1 2 3 4 5 - Most of the time - 6 7 8 9 10 Always
+6. How certain am I that I help ensure staff understand the essential information they need to know about the direction of our company/organization? Not at all certain 1 2 3 4 5 - Somewhat certain - 6 7 8 9 10 Completely certain
+7. How much do employees trust me? Not at all 1 2 3 4 5 - Somewhat - 6 7 8 9 10 Totally
+
+Add up the numbers from your seven responses to determine your total score, then review the rating scale below to identify your communication rating:
+60 to 70 = Communication Champion
+50 to 59 = Good communicator but could be better
+35 to 49 = Communicator with good intentions who needs to improve
+07 to 34 = Poor communicator who must change behavior
+
+Check-up: Are you creating an open communications culture in your organization?
+
+Organizations as well as individuals benefit from regular self-assessment. To assess whether you have the systems and processes in place to create an open communications culture, consider these questions:
+
+1. Do we have a communications policy to ensure we all understand the importance, accountability and process of communications in our organization?
+2. Do the communications in our organization support our mission, vision and strategy?
+3. Is our head of communications involved in corporate strategic planning?
+4. Are our internal and external communications consistent and transparent?
+5. Do we regularly measure the effectiveness of our communications with our key stakeholders?
+6. Are our managers formally assessed and rewarded for their communications effectiveness?
+7. Do we provide skills development for our managers to help them become good communicators?
+
+Integrating mission and vision, policy and strategy, program and process, these critical success factors synergize to help build and sustain trust with multiple stakeholders.
+
+Beslin, R., & Reddin, C. (2004). How leaders can communicate to build trust. Ivey Business Journal (Online), https://ezproxy.snhu.edu/login?qurl=https%3A%2F%2Fwww.proquest.com%2Ftrade-journals%2Fhow-leaders-can-communicate-build-trust%2Fdocview%2F216174340%2Fse-2%3Faccountid%3D3783
