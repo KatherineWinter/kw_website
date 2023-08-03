@@ -65,8 +65,12 @@ Usually, crucial feedback is unprompted and must be timely to be effective. Howe
 1. Eliminate judgment: Do not make the feedback personal (i.e., phrase it as how this was not about them, but about you, "The way X impacted me.." or "This is less about you, but more about how I took X situation… "). Remember, this may not be how they see themselves or others see it. It is how it landed with you or the team.
 1. Be clear: Identify how it impacted you/the team.
 1. Be clear: Be specific about what you want to see - generate the feedback to hit all of these points: Timely, Actionable, Specific, and Kind (TASK).
-1. Ask them for their perspective by asking an open-ended question. Have empathy and listen. Pay attention to their body language and tone of voice. The goal is to understand what is important to them and to understand their point of view. As mentioned, your perspective is not their perspective. The open-ended question will open the conversation and may prevent the person from being defensive.
-1. Agree on the summary, next steps, and timeline of follow-up.
+1. Inquire with a purpose: Ask them for their perspective by asking an open-ended question. Stay quiet, have empathy, and listen. Do not say, "you should" or "you need to". Pay attention to their body language and tone of voice. The goal is to understand what is important to them and to understand their point of view. As mentioned, your perspective is not their perspective. The open-ended question will open the conversation, create commitment from the other person, and may prevent the person from being defensive. Examples of questions:
+    * How do you feel?
+    * What do you think?
+    * What do you suggest in this situation?
+    * 5Whys technique--Asking 'Why' questions five times to attempt to unearth a counter-measure.
+1. Collobarate and agree on the summary, next steps, and timeline of follow-up.
 
 The following is a fictional example of applying the formula:
 
