@@ -62,7 +62,9 @@ Usually, crucial feedback is unprompted and must be timely to be effective. Howe
 1. Think to yourself, "Is this the right time for feedback? Why am I giving them feedback now? Do I have the relationship to have a candor conversation with this person? Is this a pet peeve or having a real performance impact?" If you have a pet peeve, make that clear.
 1. Ask if the other person is open to feedback before giving the feedback.
 1. Lead with behavior: Have a specific behavioral example. Do not confuse behavior with attitude. Behaviors are a person's actions and reactions towards others or situations. Attitudes are ways of thinking or feeling about a topic.
-1. Eliminate judgment: Do not make the feedback personal (i.e., phrase it as how this was not about them, but about you, "The way X impacted me.." or "This is less about you, but more about how I took X situation… "). Remember, this may not be how they see themselves or others see it. It is how it landed with you or the team.
+1. Eliminate judgment: Give evidence-based feedback. Focus on the gap between the expectation and actual performance.
+    * Judgement - "Your document was unfinished and messy."
+    * Evidence - "The document that you committed to completing this sprint has has pending comments. There is missing information from X service."
 1. Be clear: Identify how it impacted you/the team.
 1. Be clear: Be specific about what you want to see - generate the feedback to hit all of these points: Timely, Actionable, Specific, and Kind (TASK).
 1. Inquire with a purpose: Ask them for their perspective by asking an open-ended question. Stay quiet, have empathy, and listen. Do not say, "you should" or "you need to". Pay attention to their body language and tone of voice. The goal is to understand what is important to them and to understand their point of view. As mentioned, your perspective is not their perspective. The open-ended question will open the conversation, create commitment from the other person, and may prevent the person from being defensive. Examples of questions:
