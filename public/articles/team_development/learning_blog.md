@@ -2,6 +2,57 @@
 
 Resources I find that I enjoy.
 
+## August 12, 2023
+
+I really like this article, [“Conversations That Unleash Employee Talent.”](Conversations_That_Unleash_Employee_Talent.pdf) It goes into the five conversations managers must be great at:
+* Discuss what the employee needs to do.
+* Discuss how employees are doing along the way to help them succeed.
+* Discuss how the employee did.
+* Discuss what the employee will get if he or she achieves the results.
+* Discuss and help employees continue to develop.
+
+It expands on the manager’s & employee’s role in the conversation, pitfalls, and best practices of each.
+
+I particularly like the employee feedback-gathering suggestion: “If you were in my shoes and were to do this again, what would you do more or less of to be even more successful?”
+
+Also, I enjoyed the should-not-be-hot-take: Managers who blindside employees in performance reviews should be fired because that means the manager has not been doing his or her job. These discussions should merely serve as uneventful summaries.
+
+## August 8, 2023
+
+The week’s homework is to learn about evident vs. judgment-based feedback. This week’s reading says to focus on the gaps in expected vs. actual performance and only communicate that information.
+* Judgment - “Your document was unfinished and messy.”
+* Evidence - “The document you committed to completing this sprint has pending comments. There is missing information from X service.”
+
+One of the homework assignments was to approach a manager who gave a VERY judgment-based performance evaluation and create a plan on how to raise concerns. I liked this homework because it forced me to be in a situation where I had to give feedback on feedback. Here is my answer:
+
+Greetings classmates!
+
+The assignment requires providing feedback to my (Tyler’s) manager about the judgmental versus evidence-based evaluation. “Judgments include opinions or conclusions. Judgments are after-the-fact and based on your perception of the situation. When you judge an employee’s behavior, you assume what the person is doing and apply a general term to it. Evidence is providing judgment-free facts or data to support performance improvement. It is any statement based on information gathered informally or formally about something that can be seen, heard, measured, or counted.” (Green, 2013). The performance evaluation is full of judgment-based feedback. To identify a few:
+
+* “Tyler seems to come to work late and shows up for meetings late.”
+* “His style is somewhat sloppy.”
+* “However, I think there have been times when he did not make himself available enough to team members.”
+
+We are playing as Tyler, about to address his manager. I plan to address the performance evaluation in my meeting with my manager. My tactics are as follows:
+
+* Ask if they are open to hearing my concerns regarding what was written in the performance evaluation. My manager might be having a bad day or be closed to the subject. Asking if they are open will ensure I’m not talking to a wall.
+* Lead with behavior: I will address that their feedback does not focus on the gaps between the expectation and the actual performance. Moreover, the phrasing contains perception and opinion statements such as “I think…“, “Tyler seems…” and “somewhat…“.
+* Eliminate judgment: The performance feedback, to be productive, must be focused on evidence, such as:
+    * “The core working hours are 10 am-4 pm. Tyler has arrived at work at Xam Y amount of times.”
+    * “Managers are expected to wear X, Y, and Z.”
+    * “I have received written feedback from employees about their concerns with Tyler’s availability.”
+* Be clear: Can the performance feedback be rewritten to identify the gaps in the expectation vs. actual performance? Evidenced-based feedback is essential because it helps me focus on my behaviors rather than what my manager thinks of me. Moreover, it helps reset my alignment with the performance expectation. “Evidence-based feedback is a tool that encourages self-assessment and accountability.” (Green, 2013).
+* Inquire with purpose: What do you think?
+* Align: Do we agree on the next steps? What is the timeline for the follow-up?
+
+What do you all think of this approach? What are your strategies?
+
+Best regards, Katherine Winter
+
+**References**
+
+Green, M. E. (2013). Painless performance conversations: A practical approach to critical day-to-day workplace discussions. Hoboken, NJ: John Wiley & Sons.
+
 ## July 15, 2023
 
 **Meeting formula**
