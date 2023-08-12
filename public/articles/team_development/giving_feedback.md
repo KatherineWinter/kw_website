@@ -65,6 +65,7 @@ Usually, crucial feedback is unprompted and must be timely to be effective. Howe
 1. Eliminate judgment: Give evidence-based feedback. Focus on the gap between the expectation and actual performance.
     * Judgment - "Your document was unfinished and messy."
     * Evidence - “The document you committed to completing this sprint has pending comments. There is missing information from X service.”
+    * If there isn't an explicit expectation to measure a gap, ensure not to make the feedback personal (i.e., phrase it as how this was not about them, but about you, "The way X impacted me.." or "This is less about you, but more about how I took X situation… "). Remember, this may not be how they see themselves or others see it. It is how it landed with you or the team.
 1. Be clear: Identify how it impacted you/the team.
 1. Be clear: Be specific about what you want to see - generate the feedback to hit all of these points: Timely, Actionable, Specific, and Kind (TASK).
 1. Inquire with a purpose: Ask them for their perspective by asking an open-ended question. Stay quiet, have empathy, and listen. Do not say, "you should" or "you need to". Pay attention to their body language and tone of voice. The goal is to understand what is important to them and to understand their point of view. As mentioned, your perspective is not their perspective. The open-ended question will open the conversation, create commitment from the other person, and may prevent the person from being defensive. Examples of questions:
