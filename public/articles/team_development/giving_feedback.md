@@ -189,3 +189,7 @@ Organizations as well as individuals benefit from regular self-assessment. To as
 Integrating mission and vision, policy and strategy, program and process, these critical success factors synergize to help build and sustain trust with multiple stakeholders.
 
 Beslin, R., & Reddin, C. (2004). How leaders can communicate to build trust. Ivey Business Journal (Online), https://ezproxy.snhu.edu/login?qurl=https%3A%2F%2Fwww.proquest.com%2Ftrade-journals%2Fhow-leaders-can-communicate-build-trust%2Fdocview%2F216174340%2Fse-2%3Faccountid%3D3783
+
+## When feedback goes wrong
+
+“I explained myself poorly. These are the outcomes I want. I see X space where we can improve this. Let’s work together.”
