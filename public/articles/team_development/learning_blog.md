@@ -2,6 +2,37 @@
 
 Resources I find that I enjoy.
 
+## August 15, 2023
+
+I’m obsessed with this week’s learning - asking questions to get to the core of an issue/“Inquire with purpose.” Rather than telling someone, “You need to…“or “You should…” it is about asking open-ended questions to resolve the topic or get more information. Making space for the other person to share their insights empowers them to own the outcome.
+
+E.g., “What are possible directions you might consider?”
+
+I particularly like the formula: Paraphrase + boundary + open-ended question (with plural noun).
+
+* **Paraphrase:** Use the context of the situation to ensure the talker is heard.
+* **Boundary** of the situation (“given our current budget...“).
+* **Open-ended questions + plural noun:** Open-end are questions that lead to more than yes/no. Plural nouns being “ideas” rather than “idea”- “What ideas do you have for solving the problem?“). Use exploratory language to encourage new thoughts and viewpoints (might, if, could, consider, maybe, perhaps).
+
+For example:
+* “We have a lot of projects that could help us grow our team. Given our current budget situation, which of our projects is the highest priority?”
+    * **Paraphrase:** We have a lot of projects that could help us grow our team
+    * **Boundary:** Given our current budget situation
+    * **Open-ended question:** which of our projects is the highest priority?
+    * **Plural noun:** projects
+* “If the funding is approved, what priorities could you focus on?”
+    * **Boundary:** If the funding is approved
+    * **Open-ended question:** what priorities could you focus on?
+    * **Plural noun:** priorities
+* "Considering that increased staffing is not an option right now, what other options have you considered?"*
+    * **Boundary:** increased staffing is not an option
+    * **Open-ended question:** what other options have you considered?
+    * **Plural noun:** options
+ 
+The person with the prompt challenges ownership in developing other options to mitigate the situation.
+
+I also liked the **“tell me about it”** tactic for diagnosing an issue and letting people share their perspectives. Example: “Mia, I’ve noticed you have a number of reports on your desk that were scheduled to be finished and turned in last week. Tell me about it.”
+
 ## August 12, 2023
 
 I really like this article, [“Conversations That Unleash Employee Talent.”](Conversations_That_Unleash_Employee_Talent.pdf) It goes into the five conversations managers must be great at:
