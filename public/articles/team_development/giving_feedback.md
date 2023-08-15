@@ -4,24 +4,6 @@ In the realm of professional development, providing feedback is a critical compo
 
 A quick note before we proceed - while the principles discussed here are universally applicable, their implementation may vary depending on cultural context. I'm an American, and this article is primarily rooted in the practices common in the United States, typically a low-context culture. For instance, in high-context cultures such as those prevalent in Japan, feedback tends to be less explicit and direct. Adapting the principles discussed in this article to align with the cultural norms in your specific professional environment is crucial. For the purposes of this discussion, let's explore the topic from a low-context cultural perspective, keeping in mind the need to adapt and adjust as necessary for different cultural contexts and recipient preferences.
 
-## Giving Formal Feedback
-Corporations typically have an annual or bi-annual feedback cycle. Often the feedback request is vague or blank. In this case, try the format "The Good, Opportunities, and Overall." This format usually covers all bases of what people sought but didn't ask. You will look like a feedback superhero. Under each section, start a bulleted list of everything you think of when you think of the person. Once the list is complete, try to put it in sentence form.
-
-**Fictional example**
-
-THE GOOD
-
-You did an excellent job in meetings this week. When Sandra seemed confused about the expectations for the project, you did a fantastic job, of course, correcting the situation. I liked how you asked her about her current understanding of the project before trying to guide her. That shows artful skills in emotional intelligence.
-
-OPPORTUNITIES
-
-You get excited about projects and execute them very quickly. You could improve our organization and multiply your efforts by documenting as you go along. That way, if you are on PTO, we are entirely covered. It is an excellent opportunity to show your leadership skills by making leaders out of others.
-
-OVERALL
-
-You are an AWESOME teammate. I love how you care about the success of this project. That excitement is contagious!
-
-
 ## Strategies for Giving Crucial Feedback
 Giving crucial feedback is always challenging. Below are a few tips on the approach to creating a productive conversation:
 
@@ -72,8 +54,9 @@ Usually, crucial feedback is unprompted and must be timely to be effective. Howe
     * How do you feel?
     * What do you think?
     * What do you suggest in this situation?
-    * 5Whys technique--Asking 'Why' questions five times to attempt to unearth a counter-measure.
-1. Collobarate and agree on the summary, next steps, and timeline of follow-up.
+    * 5Whys technique--Asking 'Why' questions five times to attempt to unearth a countermeasure.
+    * [Paraphrase + boundary + open-ended question (with plural noun)](coaching.md#paraphrasing)
+1. Collaborate and agree on the summary, next steps, and timeline of follow-up.
 
 The following is a fictional example of applying the formula:
 
@@ -85,7 +68,7 @@ Slowing down in conversations would open up the floor for people like myself to 
 
 ## Receiving Feedback
 
-Just as important as giving feedback is the art of receiving feedback. The same cultural, neurodiversity and personal factors apply, and it's just as crucial to be an effective recipient of feedback as it is to give it. As described above, giving feedback is also challenging and uncomfortable for the giver. Therefore, keep an open mind and view it as a gift. Just like a gift, you don't have to do anything with the feedback, but there may be consequences for not accepting it. Therefore, agreeing on the summary, next steps, and follow-up timeline is crucial. [Friedman (2016)](https://hbr.org/2016/01/defusing-an-emotionally-charged-conversation-with-a-colleague) has a great article on handling emotionally charged conversations and utilizing the PEARLS approach. The report points out that discussions can escalate quickly when we mix task and relationship channels.
+Just as important as giving feedback is the art of receiving feedback. The same cultural, neurodiversity, and personal factors apply, and it's just as crucial to be an effective recipient of feedback as it is to give it. As described above, giving feedback is also challenging and uncomfortable for the giver. Therefore, keep an open mind and view it as a gift. Just like a gift, you don't have to do anything with the feedback, but there may be consequences for not accepting it. Therefore, agreeing on the summary, next steps, and follow-up timeline is crucial. [Friedman (2016)](https://hbr.org/2016/01/defusing-an-emotionally-charged-conversation-with-a-colleague) has a great article on handling emotionally charged conversations and utilizing the PEARLS approach. The report points out that discussions can escalate quickly when we mix task and relationship channels.
 
 “Task-focused disagreement becomes contaminated with concerns about our relationship. And when that happens, things escalate. Fast.”
 
@@ -193,3 +176,20 @@ Beslin, R., & Reddin, C. (2004). How leaders can communicate to build trust. Ive
 ## When feedback goes wrong
 
 “I explained myself poorly. These are the outcomes I want. I see X space where we can improve this. Let’s work together.”
+
+## Giving Formal Feedback
+Corporations typically have an annual or bi-annual feedback cycle. Often the feedback request is vague or blank. In this case, try the format "The Good, Opportunities, and Overall." This format usually covers all bases of what people sought but didn't ask. You will look like a feedback superhero. Under each section, start a bulleted list of everything you think of when you think of the person. Once the list is complete, try to put it in sentence form.
+
+**Fictional example**
+
+THE GOOD
+
+You did an excellent job in meetings this week. When Sandra seemed confused about the expectations for the project, you did a fantastic job, of course, correcting the situation. I liked how you asked her about her current understanding of the project before trying to guide her. That shows artful skills in emotional intelligence.
+
+OPPORTUNITIES
+
+You get excited about projects and execute them very quickly. You could improve our organization and multiply your efforts by documenting as you go along. That way, if you are on PTO, we are entirely covered. It is an excellent opportunity to show your leadership skills by making leaders out of others.
+
+OVERALL
+
+You are an AWESOME teammate. I love how you care about the success of this project. That excitement is contagious!
