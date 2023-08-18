@@ -2,6 +2,42 @@
 
 Resources I find that I enjoy.
 
+## August 18, 2023
+
+I enjoyed this course, “Communicating through Disagreement”. Particularly the video on video on [Strategy Listening](https://www.linkedin.com/learning/communicating-through-disagreement-2022/strategic-listening-for-gaining-understanding?autoSkip=true&resume=false&u=2157642). It has a great tactic of what focus for while listening instead of being focused on how you want to respond:
+
+* Issues and facts: What are they concerned about? Isolate only the facts as they see them.
+* Feelings: Find the feeling that is beneath the words that they aren’t verbalizing
+* Values: What is the value that has been violated. What value is the person protecting?
+* Positions: Where does the person stand? What statement are they saying that indicates one of the other categories isn’t being fulfilled?
+
+This course has a lot of other great tips, such as:
+* Inquire with purpose
+* [Using "Yes, and…" or "Interesting, and..."](https://www.linkedin.com/learning/communicating-through-disagreement-2022/setting-the-stage-for-agreement?resume=false&u=2157642) instead of Yes, but…
+* I know what you believe, but [what do you need from me](https://www.linkedin.com/learning/communicating-through-disagreement-2022/what-do-they-need?autoSkip=true&resume=false&u=2157642) in this conversation?
+* Using [“minimal encouragers”](https://www.linkedin.com/learning/communicating-through-disagreement-2022/learning-from-hostage-negotiators?autoSkip=true&resume=false&u=2157642) — small signs that you are listening.
+* [Mirroring/repeating](https://www.linkedin.com/learning/communicating-through-disagreement-2022/learning-from-hostage-negotiators?autoSkip=true&resume=false&u=2157642) the person’s issue with a question — this volunteers more information.
+* [Allow the person to save face](https://www.linkedin.com/learning/communicating-through-disagreement-2022/excelling-with-hostage-negotiation-tips?autoSkip=true&resume=false&u=2157642) — remark on how difficult the situation is.
+* [Communicating through disagreement](https://www.linkedin.com/learning/communicating-through-disagreement-2022/sharpening-your-conflict-resolution-techniques?autoSkip=true&resume=false&u=2157642):
+    * Recognize you could be wrong
+    * Identify your objective
+    * Summarize their stance
+    * Listen to their opinion (see above!)
+ 
+(disagreeing, management, meetings, listening)
+
+## August 17, 2023
+
+I just read this article from Harvard Business Review, [“How to have a good debate in the a meeting”](https://hbr.org/2018/01/how-to-have-a-good-debate-in-a-meeting). Here are a few strong opinions it had, but check out the article for the full context:
+
+* **Start by asking a question, not uttering your opinion:** At a meeting, I attended as an adviser, the boss began with, “I think we should do X; what’s your opinion?” Everyone immediately agreed. For genuine discussion, start with a well-framed, unbiased question. This promotes real debate and encourages diverse perspectives.
+* **Help quiet people speak up (and don’t let the talkers dominate):** Many hesitate to voice their opinions in meetings due to intimidation, fear, politics, or personality. However, their insights can be valuable. To involve them, consider “warm calling” before the meeting, prepping them to share their views--asking them to share a particular view before the meeting starts. Supporting their input during the meeting fosters a collaborative environment. Encouraging group discussions leverages collective wisdom, allowing for a richer exchange of ideas.
+* **Make it safe for people to take risks:** Foster a climate of psychological safety where individuals feel free to share work-related thoughts and feelings. To create such a climate, lead by example (“Let me just throw out a risky idea...“); support those who try (“I really appreciate you suggesting...“); and sanction those who ridicule others (“I don’t want that kind of language here...“).
+* **Play devil’s advocate:** ensure all options are explored, but be clear that is the role you are playing.
+* **Cultivate transparent advocates:** When proposing ideas, be sure to be clear about the downsides of that idea.
+
+(meetings, debate, listening)
+
 ## August 15, 2023
 
 I’m obsessed with this week’s learning - asking questions to get to the core of an issue/“Inquire with purpose.” Rather than telling someone, “You need to…“or “You should…” it is about asking open-ended questions to resolve the topic or get more information. Making space for the other person to share their insights empowers them to own the outcome.
@@ -33,6 +69,8 @@ The person with the prompt challenges ownership in developing other options to m
 
 I also liked the **“tell me about it”** tactic for diagnosing an issue and letting people share their perspectives. Example: “Mia, I’ve noticed you have a number of reports on your desk that were scheduled to be finished and turned in last week. Tell me about it.”
 
+(coaching, listening, management)
+
 ## August 12, 2023
 
 I really like this article, [“Conversations That Unleash Employee Talent.”](Conversations_That_Unleash_Employee_Talent.pdf) It goes into the five conversations managers must be great at:
@@ -47,6 +85,8 @@ It expands on the manager’s & employee’s role in the conversation, pitfalls,
 I particularly like the employee feedback-gathering suggestion: “If you were in my shoes and were to do this again, what would you do more or less of to be even more successful?”
 
 Also, I enjoyed the should-not-be-hot-take: Managers who blindside employees in performance reviews should be fired because that means the manager has not been doing his or her job. These discussions should merely serve as uneventful summaries.
+
+(coaching, management)
 
 ## August 8, 2023
 
@@ -83,6 +123,8 @@ Best regards, Katherine Winter
 **References**
 
 Green, M. E. (2013). Painless performance conversations: A practical approach to critical day-to-day workplace discussions. Hoboken, NJ: John Wiley & Sons.
+
+(feedback, coaching, management)
 
 ## July 15, 2023
 
