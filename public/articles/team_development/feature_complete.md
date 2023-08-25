@@ -21,51 +21,5 @@ The Goal of Feature Complete
 * Production Sign-off: Producer has approved feature for release.
 
 ## Phase of Feature Complete
-### Feature Design/Production
-* [Rapid Prototype](https://youtu.be/jTageuhPfAM)
-* Create workflow design
-* Engineer does high level review
 
-### Feature Technical Investigation
-* Create Technical Design doc
-* Document is reviewed at 30%, 60%, 90% by another engineer.
-* Sprint time is tracked as “work actual” (instead of burn down time)
-* Note: majority of feature time should go into investigation. Investigation might produce a demo, or nearly done work. “Measure twice. Cut once.”
-
-### Feature Implementation
-* Work is done inside of branch
-* Implementation is designed with unit tests in mind
-* Manual test document is updated with edge-case tests
-* Code reviewed
-
-### Feature Finalize
-* Production sign off
-  * Production does a high-level review of the feature and verifies that feature meets user stories.
-  * May stop feature complete (Making the feature go back to Implementation).
-    * QA must create new test cases.
-    * Found issues could be marked as "Known Shippable" and addressed.
-* If issues are found. The result are solely up to production:
-* Documentation created (help articles, release notes, etc)
-* Documentation reviewed
-* Unit testing complete
-* Testing complete
-* QA sign off
-* Customer support notified
-
-### Feature Complete
-  * Team notified
-  * Merged into master
-
-### Post Release Bugs
-  * Tests written about bugs
-  * Fix verified by QA prior to release. Knock-on bugs checked for.
-
-## Benefits of Feature Complete
-  * No stale code: only feature ready code makes it into master
-  * Less feature iteration
-  * Morale Improvement: Expectations are clear and communication is improved across Design, Production, Engineering
-  * Minimal live critical issues
-  * Less overtime
-  * The live product is exactly what Production agreed to
-  * CSAT increase
-  * Less customer support calls
+[See feature development process](feature-development-process.md)
